@@ -8,6 +8,16 @@
 
 <p align="left">🔭 I’m currently working on **Frontend Development** <br><br>🌱 I’m currently learning **React & JS(Advanced)**<br><br>💬 Ask me about **HTML, CSS, JS, React, Tailwind, Bootstrap**<br><br>📫 How to reach me **pujaribasvaraj18@gmail.com**<br><br>⚡ Fun Fact Ambivert at Heart & Extrovert In Coding</p>
 
+- 🔭 I’m currently working on **Frontend Development**
+
+- 🌱 I’m currently learning **ReactJS & JS(Advanced)**
+
+- 💬 Ask me about **About Frontend Development**
+
+- 📫 How to reach me **pujaribasvaraj18@gmail.com**
+
+- ⚡ Fun fact **Ambivert at Heart & Extrovert In Coding ☕**
+
 ###
 
 <h2 align="left">Language & Tools</h2>
