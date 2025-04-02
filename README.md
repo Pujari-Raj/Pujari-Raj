@@ -2,8 +2,6 @@
 
 ###
 
-<h2 align="center">A Passionate Frontend Developer from Bharat</h2>
-
 - 🔭 I’m currently working on **Frontend Development**
 
 - 🌱 I’m currently learning **ReactJS & JS(Advanced)**
