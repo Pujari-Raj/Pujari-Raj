@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Frontend Development**
 
-- 🌱 I’m currently learning **ReactJS & JS(Advanced)**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **About Frontend Development**
 
