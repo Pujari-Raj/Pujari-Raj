@@ -4,11 +4,7 @@
 
 - 🔭 I’m currently working on **Frontend Development**
 
-- 🌱 I’m currently learning **ReactJS**
-
 - 💬 Ask me about **About Frontend Development**
-
-- 📫 How to reach me **pujaribasvaraj18@gmail.com**
 
 - ⚡ Fun fact **Ambivert at Heart & Extrovert In Coding ☕**
 
