@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **About Frontend Development**
 
-- ⚡ Fun fact **Ambivert at Heart & Extrovert In Coding ☕**
+- ⚡ Fun fact **Ambivert at Heart & Extrovert In Coding ☕  **
 
 <!-- <h2 align="left">Language & Tools</h2> -->
 
